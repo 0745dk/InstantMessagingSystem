@@ -17,7 +17,7 @@
 ### <font color = "cc2175">模块划分</font>
 **main.go**：程序的入口  
 **server.go**：
-- 包含一个服务器类型，包含Start方法。
+- 包含一个服务器类型，包含Start方法。 
 - 有处理连接请求的函数 HandlerConnection
 
 **user.go**：
